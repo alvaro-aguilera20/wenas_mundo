@@ -4,4 +4,7 @@ def wenas():
 def mod():
     print("vamos a modear maicra B)")
 
-mod()
+def modRama():
+    print("miren, escale un arbol! ahora como bajo? D:")
+
+modRama()
